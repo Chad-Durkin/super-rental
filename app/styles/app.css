@@ -1,0 +1,21 @@
+
+body {
+    background-color: grey;
+}
+
+.right {
+    float: left;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+}
+
+a {
+    color: #809dce;
+}
+
+a:hover {
+    color: #a5c7ff;
+}
